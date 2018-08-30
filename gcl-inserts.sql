@@ -27,7 +27,7 @@ INSERT INTO images (id, url) VALUES
 (1, 'https://imgur.com/qhfgP1i.jpg'),
 (1, 'https://imgur.com/1MJxeBX.jpg'),
 (1, 'https://imgur.com/i1jUnnx.jpg'),
-(2, ''),
+(2, 'https://i.imgur.com/TalQWKg.jpg'),
 (3, ''),
 (4, ''),
 (5, ''),
